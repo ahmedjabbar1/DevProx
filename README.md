@@ -15,7 +15,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/iqabs/DEVToP.git
+git clone https://github.com/ahmedjabbar1/DEVToP.git
 
 #5
 cd DEVToP
@@ -41,7 +41,7 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-# Support and development [ၣ℡ PROX DEV🔵](https://telegram.me/DEVToP) 🐾
+# Support and development [ၣ℡ DeVToP🔵](https://telegram.me/DEVToP) 🐾
 
 For managing on Telegram.
 ADD [@ahmedjabbar1](https://telegram.me/ahmedjabbar1) ❤️
