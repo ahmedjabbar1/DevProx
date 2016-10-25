@@ -18,8 +18,8 @@ return [[
 🔹/write + لزخرفة الكلمات :- 💭 الكلمة انكلش 
 🔹/voice + لتحويل النص الى صوت :- 💭 النص 
 ✵•┈••●◆ ⚗ ◆●••┈•✵ 
-- DEV - @IQ_ABS   📌
-- Channel - @DEV_PROX
+- DEV - @ahmedjabbar1   📌
+- Channel - @DEVToP
 ]] 
 end 
 
